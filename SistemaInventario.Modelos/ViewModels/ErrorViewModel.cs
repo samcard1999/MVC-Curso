@@ -1,4 +1,4 @@
-namespace MVC_Curso.Models
+namespace Global.SistemaInventario.Modelos.ViewModels
 {
     public class ErrorViewModel
     {
